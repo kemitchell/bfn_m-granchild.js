@@ -1,0 +1,8 @@
+{
+  "name": "bfn_m-grandchild",
+  "description": "provides a shell script",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "repository": "kemitchell/bfn_m-grandchild"
+}
